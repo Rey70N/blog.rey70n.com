@@ -4,7 +4,7 @@
 
 例如这样，TCP阻截大法：
 
-![image-20190312120502983](/Users/reyton/Library/Application Support/typora-user-images/image-20190312120502983.png)
+![image-20190312120502983](assets/image-20190312120502983.png)
 
 怀疑就是GFW最近在通过随机阻截TCP流量，然后对流量进行采样内容审查，这样做也可能是因为GFW也不可能对于所有流量都进行审查，如果这样做的话是极度消耗资源的，不过对于我来说，我访问的流量也只不过是为了获取一些学术资料而已。
 
